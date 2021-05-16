@@ -1,2 +1,2 @@
 @Library('first-shared-lib') _
-welcomeJob 'lambdatest'
+jenkinsForJava 'https://github.com/tgelpi-gmail/shared-library.git'
